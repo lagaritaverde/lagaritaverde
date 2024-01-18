@@ -1,5 +1,11 @@
 :root {
 	--color-text: #2aa048;
-	--color-text2: #6b2aa0;
+	--color-text2: #1dab1f;
 	--color-mainbackground: #15171c;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	max-height: 100dvh;
 }

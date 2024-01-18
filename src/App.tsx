@@ -10,10 +10,9 @@ function App() {
 				alt='logo'
 			/>
 			<p className={styles.headline}>
-				<strong className={styles.highlight}>Ticket Scanner</strong> coming
-				soon..
+				<strong className={styles.highlight}>La Garita Verde</strong>
 			</p>
-			<small className={styles.register}>by La Garita Verde</small>
+			<small className={styles.register}>coming soon..</small>
 		</div>
 	)
 }
