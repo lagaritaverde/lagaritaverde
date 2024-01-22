@@ -6,7 +6,6 @@
 	padding: 0 3rem;
 	background-color: var(--color-mainbackground);
 	display: flex;
-	row-gap: 1rem;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
