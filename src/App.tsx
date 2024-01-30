@@ -10,7 +10,7 @@ function App() {
 				alt='logo'
 			/>
 
-			<small className={styles.register}>A game development company</small>
+			<small className={styles.register}>A software development company</small>
 		</div>
 	)
 }
